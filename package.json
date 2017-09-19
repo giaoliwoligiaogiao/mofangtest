@@ -1,0 +1,32 @@
+{
+  "name": "mofang",
+  "entry": {
+    "bundle1": "./main1.js",
+    "bundle2": "./main2.js"
+  },
+  "output": {
+    "filename": "[name].js"
+  },
+  "version": "1.0.0",
+  "description": "one  of the game",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanshenghao/mofangtest.git"
+  },
+  "keywords": [
+    "wsh109120"
+  ],
+  "author": "wanshenghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanshenghao/mofangtest/issues"
+  },
+  "homepage": "https://github.com/wanshenghao/mofangtest#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
